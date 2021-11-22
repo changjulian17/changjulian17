@@ -21,11 +21,14 @@
 ---
 ### Languages and Tools:
 
-Python: sklearn, stable-baseline3, pyTorch
-Scala
-Tableau
+- Python
+	- sklearn
+	- stable-baseline3
+	- PyTorch
+- Scala
+- Tableau
 
-
+<br />
 ---
 
 ### 📕 Latest Blog Posts
