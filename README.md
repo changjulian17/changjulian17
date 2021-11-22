@@ -29,6 +29,18 @@
 - Scala
 - Tableau
 
+### 📁 Portfolio
+
+- [Automated Portfolio allocator - DRL](https://github.com/changjulian17/DataSciencePortfolio/tree/main/Investment_Portfolio)
+	- FinRL
+	- stable-baseline3: PPO, RolloutBuffer
+- [NLP - Reddit posts](https://github.com/changjulian17/DataSciencePortfolio/tree/main/NLP_Classification) 
+	- sklearn: TF-IDF, CountVectoriser, RandomForestClassifier
+- [HDB Resale](https://github.com/changjulian17/resale_HDB)
+	- sklearn: RandomForestRegressor, K-clustering
+	- Difference-in-difference modeling
+	- [Tableau](https://public.tableau.com/app/profile/julian.chang/viz/FirstDashboard_16315416189430/HDB_Res_Map)
+
 
 ### 📕 Latest Blog Posts
 
