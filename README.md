@@ -17,11 +17,9 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][tableau]
 
-<br />
-
 
 ---
-### Languages and Tools:
+### 🛠️Languages and Tools:
 
 - Python
 	- sklearn
@@ -30,10 +28,6 @@
 - Scala
 - Tableau
 
-<br />
-
-
----
 
 ### 📕 Latest Blog Posts
 
@@ -41,11 +35,9 @@
 - [Reinforced Learning Tutorial](https://medium.com/@changjulian17/reinforced-learning-tutorial-fecd51b44c)
 - [Modern Portfolio Theory with Python](https://medium.com/@changjulian17/modern-portfolio-theory-with-python-f33c9f517cd4)
 
----
 
 [blog]: https://medium.com/@changjulian17
 [github]: https://github.com/changjulian17
 [linkedin]: https://www.linkedin.com/in/julian-chang/
 [tableau]: https://public.tableau.com/app/profile/julian.chang
 
-> Written with [StackEdit](https://stackedit.io/).
