@@ -4,10 +4,13 @@
 
 ## I'm an Ex-Aerospace Engineer turned Data Scientist in training
 
-- 🌱 I’m studying Data Science at General Assembly (ending Dec 2021). Currently self-learning Reinforcement Learning algorithms in particular Proximal Policy Optimisation (PPO)
-- 👯 I’m looking to combine my two passions: Data and Investing. 
-- 🥅 2022 Goals: Taking I've learnt about models to develop  a UI and model an automated portfolio allocator for long-term wealth preservation
-- ⚡ Fun fact: I love philosophy and film
+- I’m studying Data Science at General Assembly (graduating Dec 2021). Currently self-learning Reinforcement Learning algorithms in particular Proximal Policy Optimisation (PPO) 🌱   
+- I’m looking to combine my two passions: Data and Investing 👯  
+> Python projects as a passion 🐍    
+ Macro-investing enthusiast 📈     
+Physics and Philosophy nerd 🤓  
+Rugby 🏉 and Chiefs fan 🏈    
+Ex-Aerospace Engineer ✈️     
 
 
 ### Connect with me:
