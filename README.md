@@ -2,7 +2,7 @@
 ### Hi there, I'm [Julian][LinkedIn] 👋 
 
 
-## I'm an Ex-Aerospace Engineer turned Data Scientist in training
+## I'm an Aerospace Engineer turned Data Scientist in training
 
 - I’m studying Data Science at General Assembly (graduating Dec 2021). Currently self-learning Reinforcement Learning algorithms in particular Proximal Policy Optimisation (PPO) 🌱   
 - I’m looking to combine my two passions: Data and Investing 👯  
