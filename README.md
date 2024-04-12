@@ -2,15 +2,23 @@
 ### Hi there, I'm [Julian][LinkedIn] 👋 
 
 
-## I'm an Aerospace Engineer turned Data Scientist in training
+## I'm a Delivery Lead at a bank, building marketing solutions
 
-- I’m studying Data Science at General Assembly (graduating Dec 2021). Currently self-learning Reinforcement Learning algorithms in particular Proximal Policy Optimisation (PPO) 🌱   
+- I graduated from General Assembly's Data Science Immersive in 2021 🌱   
 - I’m looking to combine my two passions: Data and Investing 👯  
-> Python projects as a passion 🐍    
- Macro-investing enthusiast 📈     
-Physics and Philosophy nerd 🤓  
-Rugby 🏉 and Chiefs fan 🏈    
-Ex-Aerospace Engineer ✈️     
+> Python projects as a passion 🐍
+> 
+> Macro-investing enthusiast 📈
+>
+> Part-time global macro trader 🌐
+> 
+> Physics and Philosophy nerd 🤓
+> 
+> Rugby 🏉 and Chiefs fan 🏈
+> 
+> Ex-Aerospace Engineer ✈️
+> 
+> Delivery Lead ✅     
 
 
 ### Connect with me:
@@ -29,6 +37,9 @@ Ex-Aerospace Engineer ✈️
 	- sklearn
 	- stable-baseline3
 	- PyTorch
+   	- FastAPI
+- Docker
+- Unix
 - Scala
 - Tableau
 
