@@ -4,8 +4,9 @@
 
 ## I'm a Delivery Lead at a bank, building marketing solutions
 
-- I graduated from General Assembly's Data Science Immersive in 2021 🌱   
-- I’m looking to combine my two passions: Data and Investing 👯  
+- I graduated from General Assembly's Data Science Immersive in 2021 🌱
+- Software Developer and Delivery Lead @ DBS Bank for 2 years ✅
+- I’m looking to combine my two passions: Investing and Math 👯  
 > Python projects as a passion 🐍
 > 
 > Macro-investing enthusiast 📈
@@ -17,8 +18,6 @@
 > Rugby 🏉 and Chiefs fan 🏈
 > 
 > Ex-Aerospace Engineer ✈️
-> 
-> Delivery Lead ✅     
 
 
 ### Connect with me:
@@ -34,10 +33,12 @@
 ### 🛠️ Languages and Tools:
 
 - Python
+   	- numpy
+   	- FastAPI
+   	- SQLite
 	- sklearn
 	- stable-baseline3
 	- PyTorch
-   	- FastAPI
 - Docker
 - Unix
 - Scala
@@ -47,9 +48,9 @@
 
 - [SMU Quant Practices](https://github.com/changjulian17/mqf_practice)
 	- QF600 Asset Pricing
-	 - Homework 1: Efficient Frontier with Object Oriented Class
+		- Homework 1: Efficient Frontier with Object Oriented Class
 	- QF620 Stochastic Methods
-	 - Assignment 1: Binomial Tree, Brownian Motion
+		- Assignment 1: Binomial Tree, Brownian Motion
 - [ML Engineer Assessment](https://github.com/changjulian17/MLEassessment)
 	- Section A: Coding challenge, Neural Network by hand
 	- Section B: The million song dataset; song classification, db creation, cache model, docker and cluster deployment  of webapp
