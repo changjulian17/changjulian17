@@ -2,10 +2,10 @@
 ### Hi there, I'm [Julian][LinkedIn] 👋 
 
 
-## I'm a Delivery Lead at a bank, building marketing solutions
+## Software Developer and Delivery Lead @ 
 
+- DBS Bank for more than 2 years and want to start my quant career✅
 - I graduated from General Assembly's Data Science Immersive in 2021 🌱
-- Software Developer and Delivery Lead @ DBS Bank for 2 years ✅
 - I’m looking to combine my two passions: Investing and Math 👯  
 > Python projects as a passion 🐍
 > 
