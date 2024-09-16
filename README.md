@@ -68,6 +68,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Not the same economy](https://medium.com/@changjulian17/not-the-same-economy-9394f374229e)
+- [Geolocation and Payments Kafka Application](https://medium.com/@changjulian17/geolocation-and-payments-kafka-application-96add0a5171)
 - [Reinforced Learning Tutorial](https://medium.com/@changjulian17/reinforced-learning-tutorial-fecd51b44c)
 - [Modern Portfolio Theory with Python](https://medium.com/@changjulian17/modern-portfolio-theory-with-python-f33c9f517cd4)
 
