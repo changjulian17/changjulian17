@@ -45,6 +45,14 @@
 
 ### 📁 Portfolio
 
+- [SMU Quant Practices](https://github.com/changjulian17/mqf_practice)
+	- QF600 Asset Pricing
+	 - Homework 1: Efficient Frontier with Object Oriented Class
+	- QF620 Stochastic Methods
+	 - Assignment 1: Binomial Tree, Brownian Motion
+- [ML Engineer Assessment](https://github.com/changjulian17/MLEassessment)
+	- Section A: Coding challenge, Neural Network by hand
+	- Section B: The million song dataset; song classification, db creation, cache model, docker and cluster deployment  of webapp
 - [Automated Portfolio allocator - DRL](https://github.com/changjulian17/DataSciencePortfolio/tree/main/Investment_Portfolio)
 	- FinRL
 	- stable-baseline3: PPO, RolloutBuffer
