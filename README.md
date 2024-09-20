@@ -2,11 +2,12 @@
 ### Hi there, I'm [Julian][LinkedIn] 👋 
 
 
-## Software Developer and Delivery Lead
+## Quant Student and Delivery Lead
 
+- Pursuing Masters of Quantitative Finance 🔣 at Singapore Management University 🎓 - graduating 2026 
 - DBS Bank for more than 2 years and want to start my quant career✅
 - I graduated from General Assembly's Data Science Immersive in 2021 🌱
-- I’m looking to combine my two passions: Investing and Math 👯  
+- I’m looking to combine my two passions: Investing and Applied Math 👯  
 > Python projects as a passion 🐍
 > 
 > Macro-investing enthusiast 📈
@@ -15,7 +16,7 @@
 > 
 > Physics and Philosophy nerd 🤓
 > 
-> Rugby 🏉 and Chiefs fan 🏈
+> Rugby 🏉, Sumo and Onosato fan ⛩️
 > 
 > Ex-Aerospace Engineer ✈️
 
