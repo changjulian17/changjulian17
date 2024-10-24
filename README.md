@@ -2,7 +2,7 @@
 ### Hi there, I'm [Julian][LinkedIn] 👋 
 
 
-## Quant Student and Delivery Lead
+## Quant Student and Techology Delivery Lead
 
 - Pursuing Masters of Quantitative Finance 🔣 at Singapore Management University 🎓 - graduating 2026 
 - DBS Bank for more than 2 years and want to start my quant career✅
