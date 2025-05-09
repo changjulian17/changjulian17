@@ -51,8 +51,61 @@
 - [SMU Quant Practices](https://github.com/changjulian17/mqf_practice)
 	- QF600 Asset Pricing
 		- Homework 1: Efficient Frontier with Object Oriented Class
+		- Homework 2: Market Model / Security Market Line
+		- Homework 3: Factor models. Performance measures
+		- Homework 4: Efficient frontier and Monte Carlo Sims
 	- QF620 Stochastic Methods
 		- Assignment 1: Binomial Tree, Brownian Motion
+		- Assignment 2: Exotic option pricing
+		- Assignment 3: Stochastic Differential Equations
+		- Assignment 4: Carl-Madan model-free option pricing
+		- Project
+			- Part 1 option pricing
+			  - Black Scholes
+			  - Bachelier
+			  - Black
+			  - Displaced Diffusion
+			- Part 2 option market pricing model
+			  - SABR
+			  - Displaced Diffusion
+			- Part 3 Exotic option pricing
+			  - exotic payoffs - model-based and Monte Carlo
+			- Part 4 Dynamic hedging
+			  - Black-Scholes dynamic hedging comparing frequencies of delta hadging and tracking error
+	- QF634 Applied Quantitative Research Methods
+		- Project
+			- universe: TOPIX
+			- pair trading and clustering
+			- neural networks in optimising entry and exit
+			  - Applying Markov chain -- Q table and 3 layer Neural Networks
+ 
+	- QF605 Fixed Income Securities
+		- No-abitrage forward pricing: bootstrapping collateralised/non-collateralised forward rates
+		- Swap/Libor Market Model, convexity correction
+		- Pricing risk neutral: swap, swaptions, constant maturity swap
+		- Short rate: Vasicek, Ho-Lee, Hull
+		- Project
+		  - Bootstrapping Swap Curves: Discount Curve, IRS pricing, forward swaps
+		  - Swaption Calibration: SABR
+		  - Convexity Correction: CMS
+		  - Exotic CMS Payoff
+    	- QF609 Risk Analysis
+		- Value-at Risk: Stocks, Options
+		- Parametric VaR - with correlaed assets
+		- Monte Carlo VaR
+		- Historical VaR
+	- QF602 Derivatives
+		- Spread option pricing
+		- Derive Barrier Option - Up and In Put
+		- Greeks - graphs
+		- Exotic products: TARF, CLN, FCN
+		- Jump-Diffusion
+		- Carr-Madan - static replication
+	- QF633 C++
+		- Options pricing with OOP
+	- QF621 Quantitative Trading Strategies
+		- High frequency trading
+    
 - [ML Engineer Assessment](https://github.com/changjulian17/MLEassessment)
 	- Section A: Coding challenge, Neural Network by hand
 	- Section B: The million song dataset; song classification, db creation, cache model, docker and cluster deployment  of webapp
