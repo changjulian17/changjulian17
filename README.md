@@ -40,6 +40,7 @@
 	- sklearn
 	- stable-baseline3
 	- PyTorch
+- C++
 - Docker
 - Unix
 - Scala
