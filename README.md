@@ -5,12 +5,13 @@
 ## Quant Student and Techology Delivery Lead
 
 - Pursuing Masters of Quantitative Finance 🔣 at Singapore Management University 🎓 - graduating 2026 
-- DBS Bank for more than 2 years and want to start my quant career✅
+- DBS Bank for more than 4 years and want to start my quant career✅
 - I graduated from General Assembly's Data Science Immersive in 2021 🌱
 - I’m looking to combine my two passions: Investing and Applied Math 👯  
-> Python projects as a passion 🐍
 > 
 > Macro-investing enthusiast 📈
+>
+> Python and Quant projects as a passion 🐍
 >
 > Part-time global macro trader 🌐
 > 
@@ -43,7 +44,7 @@
 - C++
 - Docker
 - Unix
-- Scala
+- Scala / Spark
 - Tableau
 
 ### 📁 Portfolio
