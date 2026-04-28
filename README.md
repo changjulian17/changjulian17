@@ -24,10 +24,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="medium articles" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
+[<img align="left" alt="changjulian.cloud" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="medium articles" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/pencil.svg" />][blog]
 [<img align="left" alt="github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tableau.svg" />][tableau]
+[<img align="left" alt="Global Macro Sentiment" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mapbox.svg" />][macrosentiment]
 
 <br/>
 
@@ -105,6 +107,13 @@
 			  - exotic payoffs - model-based and Monte Carlo
 			- Part 4 Dynamic hedging
 			  - Black-Scholes dynamic hedging comparing frequencies of delta hadging and tracking error
+### 🌐 Featured Projects
+
+- [Global Macro Sentiment Dashboard](https://changjulian17.github.io/global_macro_sentiment/) — Daily macro sentiment pipeline tracking market narratives across FinTwit, Reddit, news RSS, and market data.
+- [changjulian.cloud](https://changjulian.cloud) — Personal site.
+
+### 📊 Quant Projects
+
 - [ML Engineer Assessment](https://github.com/changjulian17/MLEassessment)
 	- Section A: Coding challenge, Neural Network by hand
 	- Section B: The million song dataset; song classification, db creation, cache model, docker and cluster deployment  of webapp
@@ -128,8 +137,10 @@
 - [Modern Portfolio Theory with Python](https://medium.com/@changjulian17/modern-portfolio-theory-with-python-f33c9f517cd4)
 
 
+[website]: https://changjulian.cloud
 [blog]: https://medium.com/@changjulian17
 [github]: https://github.com/changjulian17
 [linkedin]: https://www.linkedin.com/in/julian-chang/
 [tableau]: https://public.tableau.com/app/profile/julian.chang
+[macrosentiment]: https://changjulian17.github.io/global_macro_sentiment/
 
